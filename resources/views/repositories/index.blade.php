@@ -11,9 +11,9 @@
                 <table>
                     <thead>
                         <tr>
-                            <thead>ID</thead>
-                            <thead>URL</thead>
-                            <thead>&nbsp;</thead>
+                            <th>ID</th>
+                            <th>URL</th>
+                            <th>&nbsp;</th>
                         </tr>
                     </thead>
                     <tbody>
